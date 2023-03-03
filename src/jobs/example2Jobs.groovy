@@ -36,9 +36,3 @@ branches.each { branch ->
         }
     }
 }
-
-
-
-
-
-https://api.github.com/repos/yefen123/jobdsl_jobs_test/branches
